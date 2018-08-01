@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------
+ Samuel Guyette
+ sguyette
+ 1518801
+ README	
+-----------------------------------------------------------------------------
+NQueens.java
+Makefile
+NQueens.jar
+HW1.txt
+test-output.txt
+test-input.txt
+
+Once resource I used was (https://www.youtube.com/watch?v=xouin83ebxE) which is 
+a youtube video that helps conceptualize how the recursion is actually operating 
+through visual diagrams. Was very helpful with that.

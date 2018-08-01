@@ -1,0 +1,8 @@
+This program takes a text file and reads each line of input, 
+parses the tokens, then prints each token backwards to the output file on a line by itself. 
+
+References used:
+http://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
+https://stackoverflow.com/questions/20312214/reverse-string-method
+
+Sam Guyette 

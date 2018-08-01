@@ -1,0 +1,29 @@
+-----------------------------------------------------------------------------
+ Samuel Guyette
+ sguyette
+ 1518801
+ README
+ HW2	
+-----------------------------------------------------------------------------
+ChessBoard.java
+LinkedList.java
+Node.java
+Piece.java
+King.java
+Queen.java
+Rook.java
+Bishop.java
+Knight.java
+Pawn.java
+Makefile
+README
+in.txt
+output.txt
+hw2.pdf
+test-input.txt
+test-output.txt
+
+Once resource I used was
+(https://www.youtube.com/watch?v=EdLcvvo2k9w&index=7&list=PL6Zs6LgrJj3tWQfE6HK4JaX3wN96yhkD3) 
+which is a youtube series that helps conceptualize linkedlist. 
+I also added a Pawn class for the extra two points.

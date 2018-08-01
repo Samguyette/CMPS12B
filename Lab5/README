@@ -1,0 +1,15 @@
+-----------------------------------------------------------------------------
+ Samuel Guyette
+ sguyette
+ 1518801
+ README	 
+ Lab5
+-----------------------------------------------------------------------------
+README
+Makefile
+queue.c
+queue.h
+queueClient.c
+
+The only resource I used was (https://www.youtube.com/watch?v=A5_XdiK4J8A) to
+help me better understand a Linked List implementation of a queue.
